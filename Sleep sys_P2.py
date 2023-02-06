@@ -37,7 +37,7 @@ while True:
     # pointer to 500 pixels in this case(5*100)
 
     for i in range(0, 1):
-        print("Awake::q:i")
+        print("Awake successfully")
 
         pyautogui.moveTo(x=pyautogui.position().x, y=pyautogui.position().y)
 
